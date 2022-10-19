@@ -33,7 +33,7 @@
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning this Rajani signing Off!! </h1>
+   <h1> THANK YOU!!!!</h1>
 
   
 </form>
