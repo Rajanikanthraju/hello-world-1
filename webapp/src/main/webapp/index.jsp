@@ -25,11 +25,12 @@
     <hr>
     <br>
     <button type="submit" class="registerbtn">Register</button>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    
     
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning this Rajani signing Off!! </h1>
