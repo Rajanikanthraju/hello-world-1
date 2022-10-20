@@ -7,10 +7,10 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    <label for="Gender">Choose Gender</label>
+    <label for="Gender"><b>Choose Gender</b></label>
       <select name="Gender" id="gender">
-       <option value="male">Male</option>
-        <option value="female">Female</option>
+       <option value="male"><b>M</b></option>
+        <option value="female"><b>F</b></option>
       </select>
       <br>    
     <label for="mobile"><b>Enter mobile</b></label>
