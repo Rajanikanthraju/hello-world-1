@@ -79,7 +79,7 @@ a {
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
     <label for="Mobile Number"><b>Mobile</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <input type="text" placeholder="Enter mobile number" name="email" id="email" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
